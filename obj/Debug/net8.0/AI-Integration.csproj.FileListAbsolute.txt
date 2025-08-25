@@ -1,0 +1,14 @@
+F:\VS_APIs\AI-Integration\AI-Integration\bin\Debug\net8.0\AI-Integration.exe
+F:\VS_APIs\AI-Integration\AI-Integration\bin\Debug\net8.0\AI-Integration.deps.json
+F:\VS_APIs\AI-Integration\AI-Integration\bin\Debug\net8.0\AI-Integration.runtimeconfig.json
+F:\VS_APIs\AI-Integration\AI-Integration\bin\Debug\net8.0\AI-Integration.dll
+F:\VS_APIs\AI-Integration\AI-Integration\bin\Debug\net8.0\AI-Integration.pdb
+F:\VS_APIs\AI-Integration\AI-Integration\obj\Debug\net8.0\AI-Integration.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS_APIs\AI-Integration\AI-Integration\obj\Debug\net8.0\AI-Integration.AssemblyInfoInputs.cache
+F:\VS_APIs\AI-Integration\AI-Integration\obj\Debug\net8.0\AI-Integration.AssemblyInfo.cs
+F:\VS_APIs\AI-Integration\AI-Integration\obj\Debug\net8.0\AI-Integration.csproj.CoreCompileInputs.cache
+F:\VS_APIs\AI-Integration\AI-Integration\obj\Debug\net8.0\AI-Integration.dll
+F:\VS_APIs\AI-Integration\AI-Integration\obj\Debug\net8.0\refint\AI-Integration.dll
+F:\VS_APIs\AI-Integration\AI-Integration\obj\Debug\net8.0\AI-Integration.pdb
+F:\VS_APIs\AI-Integration\AI-Integration\obj\Debug\net8.0\AI-Integration.genruntimeconfig.cache
+F:\VS_APIs\AI-Integration\AI-Integration\obj\Debug\net8.0\ref\AI-Integration.dll
