@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AI-Integration")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3809ed3e8981725a9b6fb0d000b9a8c45f1ac983")]
 [assembly: System.Reflection.AssemblyProductAttribute("AI-Integration")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AI-Integration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

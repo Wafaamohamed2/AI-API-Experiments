@@ -1,8 +1,31 @@
 {
   "version": 2,
-  "dgSpecHash": "xWqtocia0p8=",
+  "dgSpecHash": "fvMQcT/y8c4=",
   "success": true,
   "projectFilePath": "F:\\VS_APIs\\AI-Integration\\AI-Integration\\AI-Integration.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\azure.ai.openai\\2.3.0-beta.1\\azure.ai.openai.2.3.0-beta.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.ai\\9.8.0\\microsoft.extensions.ai.9.8.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\9.8.0\\microsoft.extensions.ai.abstractions.9.8.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.ai.openai\\9.8.0-preview.1.25412.6\\microsoft.extensions.ai.openai.9.8.0-preview.1.25412.6.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.3\\microsoft.extensions.logging.abstractions.8.0.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.vectordata.abstractions\\9.7.0\\microsoft.extensions.vectordata.abstractions.9.7.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.semantickernel\\1.63.0\\microsoft.semantickernel.1.63.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.semantickernel.abstractions\\1.63.0\\microsoft.semantickernel.abstractions.1.63.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.semantickernel.connectors.azureopenai\\1.63.0\\microsoft.semantickernel.connectors.azureopenai.1.63.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.semantickernel.connectors.openai\\1.63.0\\microsoft.semantickernel.connectors.openai.1.63.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.semantickernel.core\\1.63.0\\microsoft.semantickernel.core.1.63.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\openai\\2.3.0\\openai.2.3.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.clientmodel\\1.5.1\\system.clientmodel.1.5.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.memory.data\\8.0.1\\system.memory.data.8.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.numerics.tensors\\9.0.8\\system.numerics.tensors.9.0.8.nupkg.sha512"
+  ],
   "logs": []
 }
